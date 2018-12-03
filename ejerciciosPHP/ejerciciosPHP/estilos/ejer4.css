@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{
+  background-color: #A8D9E8;
+  font-style: Verdana;
+}
+h1{
+  margin: 10px;
+  color: grey;
+  text-align: center;
+  border: 1px solid black;
+}

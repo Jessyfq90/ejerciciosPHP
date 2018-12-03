@@ -1,0 +1,23 @@
+@charset "UTF-8";
+h3{
+  font-weight: bold;
+  color: #81BEF7;
+  width: 450px;
+  border: 2px solid #81BEF7;
+  text-align: center;
+}
+form{
+  border: 3px solid #AC58FA; 
+  background-color:#E6E6E6;
+  width:450px;
+  
+}
+label, input{
+  margin: 0.5em;
+}
+label{
+  font-weight: bold;
+}
+input{
+  font-family: monospace;
+}

@@ -1,0 +1,53 @@
+@charset "UTF-8";
+body{
+   background-color: #688A08;
+}
+
+main{
+  background-color: #BEF781;
+  width: 100%;
+  padding-left:0.5em;
+  padding-top:0.15em;
+  height: 500px;
+  
+}
+h1, form{
+  margin-left: 0.5em;
+  padding-top:0.5em;
+}
+h2{
+  color:#688A08;
+}
+form{
+  padding-bottom:0.5em;
+}
+.productos{
+  float:left;
+  width: 55%;
+  height: 2em;
+}
+.precio{
+  
+  float:left;
+  width: 20%;
+ height: 2em;
+}
+.edicion{
+  float:left;
+  width: 15%;
+   height: 2em;
+  }
+
+.negrita{
+  font-weight: bold;
+  padding-bottom:0.5em;
+   margin-bottom:1.5em;
+}
+
+a{
+  border: 1px solid grey;
+  padding: 0.15em;
+  text-decoration: none;
+  color: black;
+  background-color: #E6E6E6;
+}

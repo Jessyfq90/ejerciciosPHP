@@ -1,0 +1,40 @@
+@charset "UTF-8";
+h3{
+  font-weight: bold;
+  color: #81BEF7;
+  width: 600px;
+  border: 2px solid #81BEF7;
+  text-align: center;
+}
+form{
+  background-color: #F0E6E6;
+  color: black;
+  width: 600px;
+}
+legend{
+  width: 140px;
+  border:5px solid #D8CEF6; 
+  text-align: center;
+}
+table, tr, td, th{
+  border:5px solid #D8CEF6; 
+  border-collapse: collapse;
+  empty-cells: show;
+  
+}
+th{
+  color: white;
+  background-color: blue;
+}
+.peques{
+  width: 20px;
+  height: 20px;
+}  
+span, .malo{
+  color:red;
+ }
+.bueno{
+    color:green;
+ }
+
+

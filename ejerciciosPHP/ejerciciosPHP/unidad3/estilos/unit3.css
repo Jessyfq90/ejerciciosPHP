@@ -1,0 +1,61 @@
+@charset "UTF-8";
+.form3{
+  border: 2px solid black;
+  color: white;
+  background-color: olive;
+  width: 500px;
+}
+.submit{
+  margin:0.5em;
+}
+h1{
+  color: blue;
+  font-size: 140%;
+}
+table{
+  border: 2px solid black;
+  collapse: collapse; 
+}
+.muestra{
+  text-align: center;
+  border: 2px solid black;
+  collapse: collapse; 
+  width: 300px;
+}
+
+tr, td{
+  border: 1px solid black;
+  collapse: collapse;
+}
+span{
+  color: red;
+}
+th{
+  background-color: blue;
+  color: white;
+}
+label{
+  margin:0.5em;
+}
+.punto4{
+  background-color:white;
+  border: none;
+  color: black;
+}
+.punto4 > input{
+  margin-top: 1em;
+  margin-left: 3em;
+}
+
+form{
+   border: 3px solid #D8CEF6;
+   background-color: #E6E6E6;
+   width: 30%;
+}
+form > input, form > label{
+  margin: 0.5em;
+}
+.sin{
+  border:none;
+  background-color:white;
+}

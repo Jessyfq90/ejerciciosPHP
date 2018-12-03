@@ -1,0 +1,28 @@
+@charset "UTF-8";
+h3{
+  font-weight: bold;
+  color: #81BEF7;
+  width: 450px;
+  border: 2px solid #81BEF7;
+  text-align: center;
+}
+form{
+  background-color: #F0E6E6;
+  color: black;
+  width: 630px;
+}
+legend{
+  width: 140px;
+  border:5px solid #D8CEF6; 
+  text-align: center;
+}
+.check{
+  margin-left:0.4em;
+}
+span, .malo{
+  color:red;
+ }
+fieldset, table{
+  border:5px solid #D8CEF6; 
+
+}

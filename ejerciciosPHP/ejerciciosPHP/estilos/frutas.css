@@ -1,0 +1,17 @@
+@charset "UTF-8";
+table{
+  border: 3px solid #D8CEF6;
+  collapse: collapse; 
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+caption{
+  border: 2px solid blue;
+  width: 420px;
+  color: #013ADF;
+  text-align: center;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
